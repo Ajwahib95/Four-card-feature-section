@@ -149,12 +149,14 @@ h1 {
 h2 {
   padding: 27px 32px 8px 32px;
   color: hsl(234, 12%, 34%);
+  font-size: 1.2em;
 }
 
 .card p {
   padding: 0 32px;
   color: hsl(229, 6%, 66%);
   font-weight: 400;
+  font-size: 0.9em;
 }
 
 .img-wrapper {
