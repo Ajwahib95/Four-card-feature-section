@@ -111,7 +111,6 @@ h1 {
   color: hsl(229, 6%, 66%);
   text-align: center;
   max-width: 500px;
-  /* margin: 0 auto; */
   padding-bottom: 65px;
   font-weight: 400;
 }
@@ -119,7 +118,6 @@ h1 {
 .container {
   display: flex;
   align-items: center;
-  /* justify-content: center; */
   width: 1110px;
   margin: 0 auto;
   gap: 30px;
